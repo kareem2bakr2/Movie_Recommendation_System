@@ -1,3 +1,5 @@
+package App;
+
 import models.Movie;
 import models.User;
 import models.UserRecommendation;
